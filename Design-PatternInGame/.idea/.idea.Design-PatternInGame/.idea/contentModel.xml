@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\HP\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\HP\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Design-PatternInGame.1694335248.00" t="ExcludeRecursive" />
+    <e p="D:\unityworkplace\Design-Pattern\Design-PatternInGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Intermediary" t="Include">
+            <e p="ConstructionSystem.cs" t="Include" />
+            <e p="CountSystem.cs" t="Include" />
+            <e p="Game.cs" t="Include" />
+            <e p="GameSystem.cs" t="Include" />
+            <e p="Intermediary.cs" t="Include" />
+            <e p="MotionSystem.cs" t="Include" />
+            <e p="TimingSystem.cs" t="Include" />
+          </e>
+          <e p="ObserverMode" t="Include">
+            <e p="ArrtibuteInterface.cs" t="Include" />
+            <e p="Ball.cs" t="Include" />
+            <e p="Cube.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Design-PatternInGame.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
