@@ -7,6 +7,13 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="CommandMode" t="Include">
+            <e p="BaseCommand.cs" t="Include" />
+            <e p="ClickCommand.cs" t="Include" />
+            <e p="SliderCommand.cs" t="Include" />
+            <e p="ToolConfig.cs" t="Include" />
+            <e p="ToolController.cs" t="Include" />
+          </e>
           <e p="Intermediary" t="Include">
             <e p="ConstructionSystem.cs" t="Include" />
             <e p="CountSystem.cs" t="Include" />

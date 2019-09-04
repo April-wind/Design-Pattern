@@ -13,15 +13,20 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/TimingSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/GameSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Ball.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -36,6 +41,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" />
       </list>
     </option>
   </component>
@@ -93,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1567509164195</updated>
       <workItem from="1567509166090" duration="2272000" />
-      <workItem from="1567517738207" duration="3930000" />
+      <workItem from="1567517738207" duration="5120000" />
+      <workItem from="1567603651529" duration="5589000" />
     </task>
     <servers />
   </component>
