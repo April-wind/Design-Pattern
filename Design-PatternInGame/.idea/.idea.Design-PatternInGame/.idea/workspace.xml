@@ -17,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" root0="FORCE_HIGHLIGHTING" />
@@ -59,6 +60,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InterfaceIsolationPrinciple/OpenWeb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" />
       </list>
     </option>
   </component>
@@ -119,7 +122,8 @@
       <workItem from="1567517738207" duration="5120000" />
       <workItem from="1567603651529" duration="6185000" />
       <workItem from="1567665620506" duration="5000" />
-      <workItem from="1567673122037" duration="2290000" />
+      <workItem from="1567673122037" duration="5953000" />
+      <workItem from="1567684848218" duration="442000" />
     </task>
     <servers />
   </component>

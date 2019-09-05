@@ -28,6 +28,9 @@
             <e p="Ball.cs" t="Include" />
             <e p="Cube.cs" t="Include" />
           </e>
+          <e p="Principles" t="Include">
+            <e p="OpenWeb.cs" t="Include" />
+          </e>
           <e p="StateMode" t="Include">
             <e p="BaseState.cs" t="Include" />
             <e p="IdleState.cs" t="Include" />
