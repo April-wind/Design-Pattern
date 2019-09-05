@@ -28,6 +28,14 @@
             <e p="Ball.cs" t="Include" />
             <e p="Cube.cs" t="Include" />
           </e>
+          <e p="StateMode" t="Include">
+            <e p="BaseState.cs" t="Include" />
+            <e p="IdleState.cs" t="Include" />
+            <e p="JumpState.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="RunState.cs" t="Include" />
+            <e p="SquatState.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Design-PatternInGame.sln" t="IncludeFlat" />

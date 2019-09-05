@@ -17,14 +17,20 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Ball.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/RunState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -46,6 +52,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/RunState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -104,7 +117,9 @@
       <updated>1567509164195</updated>
       <workItem from="1567509166090" duration="2272000" />
       <workItem from="1567517738207" duration="5120000" />
-      <workItem from="1567603651529" duration="5589000" />
+      <workItem from="1567603651529" duration="6185000" />
+      <workItem from="1567665620506" duration="5000" />
+      <workItem from="1567673122037" duration="2290000" />
     </task>
     <servers />
   </component>
