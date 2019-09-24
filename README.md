@@ -15,4 +15,5 @@
 ![qq_pic_merged_1569313170457](https://user-images.githubusercontent.com/39976600/65494373-4badbe00-dee7-11e9-8374-c9c85aaac02a.jpg)
 
 状态模式结构图
+好处 ：状态模式将各种状态转移逻辑分布到State的子类之间，来减少相互之间的依赖，消除庞大的条件分支
 ![qq_pic_merged_1569315230380](https://user-images.githubusercontent.com/39976600/65497051-1fe10700-deec-11e9-8a15-0051955c1f84.jpg)
