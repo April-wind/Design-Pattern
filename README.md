@@ -10,3 +10,7 @@
 
 中介者模式结构图
 ![qq_pic_merged_1569233443865](https://user-images.githubusercontent.com/39976600/65418008-01b4d180-de2e-11e9-9b3b-b171ceca7190.jpg)
+
+观察者模式结构图
+![qq_pic_merged_1569313170457](https://user-images.githubusercontent.com/39976600/65494373-4badbe00-dee7-11e9-8374-c9c85aaac02a.jpg)
+
