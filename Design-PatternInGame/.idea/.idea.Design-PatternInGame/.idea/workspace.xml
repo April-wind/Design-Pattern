@@ -12,28 +12,32 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/TimingSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/GameSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Ball.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingletonMonobehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/TimingSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingleTemplate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Ball.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/OpenWeb1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/RunState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,26 +46,29 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/GameSystem.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/TimingSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/RunState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InterfaceIsolationPrinciple/OpenWeb.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingletonMonobehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingleTemplate.cs" />
       </list>
     </option>
   </component>
@@ -78,7 +85,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.build.unityPlugin" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,6 +131,9 @@
       <workItem from="1567665620506" duration="5000" />
       <workItem from="1567673122037" duration="5953000" />
       <workItem from="1567684848218" duration="442000" />
+      <workItem from="1569227321786" duration="5179000" />
+      <workItem from="1569311276946" duration="4719000" />
+      <workItem from="1569331435519" duration="2164000" />
     </task>
     <servers />
   </component>
@@ -151,6 +161,8 @@
   <component name="WindowStateProjectService">
     <state x="842" y="246" key="RiderGenerateDialog" />
     <state x="842" y="246" key="RiderGenerateDialog/2560.1440" />
+    <state x="535" y="199" key="SettingsEditor" />
+    <state x="535" y="199" key="SettingsEditor/2560.1440" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

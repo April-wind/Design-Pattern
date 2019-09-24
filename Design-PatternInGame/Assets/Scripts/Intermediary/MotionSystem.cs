@@ -21,7 +21,6 @@ public class MotionSystem : MonoBehaviour, IGameSystem
     
     public  void OnEnd () 
     {
-
         floorTransform.GetComponent<Rigidbody> ().velocity = Vector2.zero;
     }
     
