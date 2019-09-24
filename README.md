@@ -14,3 +14,5 @@
 观察者模式结构图
 ![qq_pic_merged_1569313170457](https://user-images.githubusercontent.com/39976600/65494373-4badbe00-dee7-11e9-8374-c9c85aaac02a.jpg)
 
+状态模式结构图
+![qq_pic_merged_1569315230380](https://user-images.githubusercontent.com/39976600/65497051-1fe10700-deec-11e9-8a15-0051955c1f84.jpg)
