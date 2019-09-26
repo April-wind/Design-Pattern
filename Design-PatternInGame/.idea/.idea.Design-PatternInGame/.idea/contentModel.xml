@@ -14,6 +14,16 @@
             <e p="ToolConfig.cs" t="Include" />
             <e p="ToolController.cs" t="Include" />
           </e>
+          <e p="FactoryMode" t="Include">
+            <e p="FactoryMethod" t="Include">
+              <e p="Interfaces.cs" t="Include" />
+              <e p="LeftWalker.cs" t="Include" />
+              <e p="LeftWalkerFactory.cs" t="Include" />
+              <e p="RightWalker.cs" t="Include" />
+              <e p="RightWalkerFactory.cs" t="Include" />
+            </e>
+            <e p="SimpleFactory.cs" t="Include" />
+          </e>
           <e p="Intermediary" t="Include">
             <e p="ConstructionSystem.cs" t="Include" />
             <e p="CountSystem.cs" t="Include" />

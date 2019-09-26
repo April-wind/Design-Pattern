@@ -17,24 +17,30 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalkerFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingletonMonobehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/SliderCommand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/TimingSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingleTemplate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/Interfaces.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/SimpleFactory.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/SquatState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalkerFactory.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Ball.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/OpenWeb1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/OpenWeb1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/ArrtibuteInterface.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/RunState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Intermediary.cs" root0="FORCE_HIGHLIGHTING" />
@@ -69,6 +75,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/Singleton.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingletonMonobehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingleTemplate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SingletonMode/OpenWeb1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/SimpleFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalkerFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalkerFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/Interfaces.cs" />
       </list>
     </option>
   </component>
@@ -133,7 +147,9 @@
       <workItem from="1567684848218" duration="442000" />
       <workItem from="1569227321786" duration="5179000" />
       <workItem from="1569311276946" duration="4719000" />
-      <workItem from="1569331435519" duration="2164000" />
+      <workItem from="1569331435519" duration="2935000" />
+      <workItem from="1569392341080" duration="2364000" />
+      <workItem from="1569406375035" duration="2409000" />
     </task>
     <servers />
   </component>
@@ -163,6 +179,8 @@
     <state x="842" y="246" key="RiderGenerateDialog/2560.1440" />
     <state x="535" y="199" key="SettingsEditor" />
     <state x="535" y="199" key="SettingsEditor/2560.1440" />
+    <state x="687" y="243" width="672" height="679" key="search.everywhere.popup" />
+    <state x="687" y="243" width="672" height="679" key="search.everywhere.popup/2560.1440" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
