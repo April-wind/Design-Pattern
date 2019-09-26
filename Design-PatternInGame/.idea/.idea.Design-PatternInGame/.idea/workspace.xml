@@ -15,14 +15,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/GameSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/Game.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/BaseCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IteratorMode/Test.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Principles/OpenWeb.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/BaseState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalkerFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IteratorMode/ConcreteAggregate.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ToolConfig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/CountSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObserverMode/Cube.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/ConstructionSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IteratorMode/ConcreteIterator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/JumpState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/SingletonMonobehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Intermediary/MotionSystem.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/Interfaces.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SingletonMode/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IteratorMode/Iterator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FactoryMode/SimpleFactory.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CommandMode/ClickCommand.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateMode/IdleState.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,6 +87,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/LeftWalkerFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/RightWalkerFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FactoryMode/FactoryMethod/Interfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IteratorMode/Iterator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IteratorMode/ConcreteAggregate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IteratorMode/ConcreteIterator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IteratorMode/Test.cs" />
       </list>
     </option>
   </component>
@@ -150,6 +158,7 @@
       <workItem from="1569331435519" duration="2935000" />
       <workItem from="1569392341080" duration="2364000" />
       <workItem from="1569406375035" duration="2409000" />
+      <workItem from="1569474673144" duration="2476000" />
     </task>
     <servers />
   </component>

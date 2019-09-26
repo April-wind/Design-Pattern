@@ -33,6 +33,12 @@
             <e p="MotionSystem.cs" t="Include" />
             <e p="TimingSystem.cs" t="Include" />
           </e>
+          <e p="IteratorMode" t="Include">
+            <e p="ConcreteAggregate.cs" t="Include" />
+            <e p="ConcreteIterator.cs" t="Include" />
+            <e p="Iterator.cs" t="Include" />
+            <e p="Test.cs" t="Include" />
+          </e>
           <e p="ObserverMode" t="Include">
             <e p="ArrtibuteInterface.cs" t="Include" />
             <e p="Ball.cs" t="Include" />
